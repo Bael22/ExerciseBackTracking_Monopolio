@@ -1,0 +1,15 @@
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\bin\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.exe
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\bin\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.deps.json
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\bin\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.runtimeconfig.json
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\bin\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.dll
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\bin\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.pdb
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\obj\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.csproj.AssemblyReference.cache
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\obj\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\obj\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.AssemblyInfoInputs.cache
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\obj\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.AssemblyInfo.cs
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\obj\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.csproj.CoreCompileInputs.cache
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\obj\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.dll
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\obj\Debug\net6.0\refint\S13_Repaso_Monopolio_BackTracking.dll
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\obj\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.pdb
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\obj\Debug\net6.0\S13_Repaso_Monopolio_BackTracking.genruntimeconfig.cache
+E:\Desktop\S13_Repaso\S13_Repaso_Monopolio_BackTracking\obj\Debug\net6.0\ref\S13_Repaso_Monopolio_BackTracking.dll
